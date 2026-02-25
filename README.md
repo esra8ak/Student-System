@@ -1,6 +1,6 @@
 # Student Grade Management System (C)
 
-[cite_start]This project is a structured and modular student management simulation developed in C. The program allows users to maintain student personal records, manage exam scores for three core subjects (Math, Physics, and Chemistry), and calculate grade averages. [cite: 1]
+This project is a structured and modular student management simulation developed in C. The program allows users to maintain student personal records, manage exam scores for three core subjects (Math, Physics, and Chemistry), and calculate grade averages. [cite: 1]
 
 ## ✭ Features
 * **Student Management:** Functionalities to add, update, and delete student records.
